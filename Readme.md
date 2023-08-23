@@ -8,24 +8,24 @@
 🚀 **4** Open Mousescape > Cmd+N
 
 🖱 **5** Right click on the cape > Edit
-![Right click on the cape > Edit](image-1.png)
+![Right click on the cape > Edit](assets/image-1.png)
 
 ➕ **6** Press + Symbol on Bottom left
-![Press + Symbol on Bottom left](image-3.png)
+![Press + Symbol on Bottom left](assets/image-3.png)
 
 👆 **7** Select the newly added cape
-![Select the newly added cape](image-4.png)
+![Select the newly added cape](assets/image-4.png)
 
 🔽 **8** Select Arrow Type from Dropdown
-![Select Arrow Type from Dropdown](image.png)
+![Select Arrow Type from Dropdown](assets/image.png)
 
 🖱➡📦 **9** Drag and Drop `pslv_icon.png` to x2 box
-![Drag and Drop pslv_icon.png to x2 box](image-2.png)
+![Drag and Drop pslv_icon.png to x2 box](assets/image-2.png)
 
 💾 **10** Save the Changes
-![Save the Changes](image-5.png)
+![Save the Changes](assets/image-5.png)
 
 🖱🚀 **11** Right click on the cape and select Apply
-![Right click on the cape and select Apply](image-6.png)
+![Right click on the cape and select Apply](assets/image-6.png)
 
 🎉 **Congratulations!** You now have the PSLV rocket as your Mac Cursor Icon 🚀💻
